@@ -2,3 +2,5 @@ What is js?
 Ans: Java script is a web programming language. which is used to web development
 What is react?
 Ans: It is a java script framework
+What is node?
+Ans: It is also java script framework used to develop backend web development.
