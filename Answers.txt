@@ -1,0 +1,4 @@
+What is js?
+Ans: Java script is a web programming language. which is used to web development
+What is react?
+Ans: It is a java script framework
